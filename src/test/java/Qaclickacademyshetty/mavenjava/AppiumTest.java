@@ -11,6 +11,7 @@ public class AppiumTest
 		System.out.println("appiumTest");
 		System.out.println("appiumTest1");
 		System.out.println("appiumTest2");
+		System.out.println("appiumTest3");
 	}
 	
 	@Test
