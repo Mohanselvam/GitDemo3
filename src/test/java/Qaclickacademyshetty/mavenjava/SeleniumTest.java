@@ -19,4 +19,13 @@ public class SeleniumTest
     	 System.out.println("elementUi2");
     	 System.out.println("elementUi3");
      }
+     
+     @Test
+     public void ApiConfiguration()
+     {
+    	 System.out.println("APIAutomation1");
+    	 System.out.println("APIAutomation2");
+    	 System.out.println("APIAutomation3");
+     }
+     
 }
