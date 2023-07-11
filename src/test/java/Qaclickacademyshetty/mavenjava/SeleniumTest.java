@@ -15,6 +15,8 @@ public class SeleniumTest
      @Test
      public void elementUi()
      {
-    	 System.out.println("elementUi");
+    	 System.out.println("elementUi1");
+    	 System.out.println("elementUi2");
+    	 System.out.println("elementUi3");
      }
 }
